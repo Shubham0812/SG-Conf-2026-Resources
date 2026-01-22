@@ -36,17 +36,11 @@ Hands-on learning material to build a strong foundation.
 
 Each project focuses on **one core concept** and is designed to be:
 - Easy to read
-- Easy to extract from
+- Easy to modify
 - Easy to adapt to real apps
 
 - **SwiftUI Sample Apps by Apple**  
   https://developer.apple.com/tutorials/sample-apps/
-
----
-
-## 🧩 Reusable Components
-
-Production-ready patterns and components built for **customisation and scale**.
 
 - **Reusable Button Styles**  
   <repo link>
@@ -59,6 +53,7 @@ Production-ready patterns and components built for **customisation and scale**.
 
 - **Animation Presets & Systems**  
   <repo link>
+
 
 ---
 
