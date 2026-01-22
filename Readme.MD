@@ -10,7 +10,7 @@ Use this repository as a post-talk reference and explore the topics at your own 
 Talks and sessions that focus on the *why*, *when*, and *how* of animations and motion in SwiftUI.
 
 ### Apple & WWDC
-- Designing Fluid Interfaces – <add link>
+- SwiftUI Tutorials by Apple  -(Link)[https://developer.apple.com/tutorials/swiftui]
 - Explore SwiftUI Animations – <add link>
 - Animate with SF Symbols – <add link>
 
