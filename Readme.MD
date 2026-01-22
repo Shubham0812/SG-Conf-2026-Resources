@@ -11,8 +11,8 @@ Talks and sessions
 
 ### Apple & WWDC
 
-- [WWDC24: Enhance Your UI Animations & Transitions](https://www.youtube.com/watch?v=UDaNFV1Ll3E)
-- [WWDC24: SwiftUI Essentials – Animate with SF Symbols](https://www.youtube.com/watch?v=HyQgpxX__-A)
+- WWDC24: Enhance Your UI Animations & Transitions - [Link](https://www.youtube.com/watch?v=UDaNFV1Ll3E)
+- WWDC24: SwiftUI Essentials – Animate with SF Symbols - [Link](https://www.youtube.com/watch?v=HyQgpxX__-A)
 ------
 
 ## Tutorials
@@ -25,7 +25,7 @@ Each project focuses on a single concept and is meant to be readable, reusable, 
 
 
 
-- [SwiftUI Sample Apps by Apple](https://developer.apple.com/tutorials/sample-apps/)
+- SwiftUI Sample Apps by Apple - [Link](https://developer.apple.com/tutorials/sample-apps/)
 
 
 ## Reusable Components
