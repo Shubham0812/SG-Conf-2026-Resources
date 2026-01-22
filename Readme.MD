@@ -16,7 +16,6 @@ Talks and sessions
 ------
 
 ## Tutorials
-
 - [SwiftUI Tutorials by Apple](https://developer.apple.com/tutorials/swiftui)
 
 
