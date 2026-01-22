@@ -90,5 +90,5 @@ Shubham Singh
 iOS Developer – SwiftUI and Animations
 
 - X - https://x.com/shubham_iosdev
-- Instagram – instagram.com/shubham_iosdev
+- Instagram – https://instagram.com/shubham_iosdev
 - LinkedIN - https://www.linkedin.com/in/shubham0812
