@@ -9,18 +9,13 @@ Use this repository as a post-talk reference and explore the topics at your own 
 
 Talks and sessions that focus on the *why*, *when*, and *how* of animations and motion in SwiftUI.
 
+
 ### Apple & WWDC
-- SwiftUI Tutorials by Apple  -(Link)[https://developer.apple.com/tutorials/swiftui]
-- Explore SwiftUI Animations – <add link>
-- Animate with SF Symbols – <add link>
 
-### Design & Motion Fundamentals
-- Principles of Motion Design – <add link>
-- Designing Meaningful Animations – <add link>
-
-### Deep Dives
-- Advanced SwiftUI Animation Techniques – <add link>
-- Performance Considerations for Animations – <add link>
+- [SwiftUI Tutorials by Apple](https://developer.apple.com/tutorials/swiftui)
+- [WWDC24: Enhance Your UI Animations & Transitions](https://www.youtube.com/watch?v=UDaNFV1Ll3E)
+- [WWDC24: SwiftUI Essentials – Animate with SF Symbols](https://www.youtube.com/watch?v=HyQgpxX__-A)
+- [SwiftUI Sample Apps by Apple](https://developer.apple.com/tutorials/sample-apps/)
 
 ------
 
