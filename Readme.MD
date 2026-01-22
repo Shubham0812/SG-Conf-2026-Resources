@@ -1,62 +1,84 @@
-# Conference Resources – SwiftUI Animations & UI Patterns
+# Conference Resources  
+### SwiftUI Animations & UI Patterns
 
-A curated collection of reference videos, demo projects shared during the conference.
+A curated set of videos, tutorials, demo projects, and real-world references shared during the talk.
 
-Use this repository as a post-talk reference and explore the topics at your own pace.
+This repository is meant to be a **post-conference companion** — something you can come back to, explore slowly, and apply in real projects.
 
-------
-## Videos to Watch
+---
 
-Talks and sessions 
+## 🎥 Videos to Watch
+
+Shortlisted talks that explain **how SwiftUI animations work** and **how to think about motion in interfaces**.
 
 ### Apple & WWDC
 
-- WWDC24: Enhance Your UI Animations & Transitions - [Link](https://www.youtube.com/watch?v=UDaNFV1Ll3E)
-- WWDC24: SwiftUI Essentials – Animate with SF Symbols - [Link](https://www.youtube.com/watch?v=HyQgpxX__-A)
+- **Enhance Your UI Animations & Transitions**  
+  WWDC 2024  
+  https://www.youtube.com/watch?v=UDaNFV1Ll3E
 
-------
-
-## Tutorials
-- [SwiftUI Tutorials by Apple](https://developer.apple.com/tutorials/swiftui)
-
+- **SwiftUI Essentials – Animate with SF Symbols**  
+  WWDC 2024  
+  https://www.youtube.com/watch?v=HyQgpxX__-A
 
 ---
-## Demo Projects
-Each project focuses on a single concept and is meant to be readable, reusable, and production-minded.
 
+## 📘 Tutorials
 
+Hands-on learning material to build a strong foundation.
 
-- SwiftUI Sample Apps by Apple - [Link](https://developer.apple.com/tutorials/sample-apps/)
+- **SwiftUI Tutorials by Apple**  
+  https://developer.apple.com/tutorials/swiftui
 
+---
 
-## Reusable Components
+## 🧪 Demo Projects
 
-Production-ready components designed for customization and scale.
+Each project focuses on **one core concept** and is designed to be:
+- Easy to read
+- Easy to extract from
+- Easy to adapt to real apps
 
-- Reusable Button Styles  
+- **SwiftUI Sample Apps by Apple**  
+  https://developer.apple.com/tutorials/sample-apps/
+
+---
+
+## 🧩 Reusable Components
+
+Production-ready patterns and components built for **customisation and scale**.
+
+- **Reusable Button Styles**  
   <repo link>
 
-- Animated Toggles and Switches  
+- **Animated Toggles & Switches**  
   <repo link>
 
-- Progress Indicators and Loaders  
+- **Progress Indicators & Loaders**  
   <repo link>
 
-- Animation Presets and Systems  
+- **Animation Presets & Systems**  
   <repo link>
 
+---
 
-## My App
+## 📱 My App
 
 ### WordFlux – Word Puzzles
 
-I recently launched **WordFlux**, a thoughtfully designed word puzzle game where you form words from a limited set of letters before the timer runs out.
-If this talk or the projects here resonated with you, I’d love for you to check out the app.
+I recently launched **WordFlux**, a thoughtfully designed word-puzzle game focused on quick thinking, pattern recognition, and long-term vocabulary growth.
 
-- App Store – https://apps.apple.com/in/app/wordflux-word-puzzles/id6757514622
+You form words from a limited set of letters before the timer runs out.  
+Each session is short, focused, and designed to keep you in a state of flow.
 
+- App Store  
+  https://apps.apple.com/in/app/wordflux-word-puzzles/id6757514622
 
-## Source Code Usage
+If the ideas from this talk or the projects here resonated with you, I’d love for you to check it out.
+
+---
+
+## 🧾 Source Code Usage
 
 All demo projects in this repository are intended for learning and reference.
 
@@ -64,15 +86,23 @@ All demo projects in this repository are intended for learning and reference.
 - Modular and easy to extract
 - Suitable for personal or commercial use
 
-If you find something useful, feel free to star or fork the repository.
+If you find something useful, consider starring or forking the repository.
 
 ---
 
-## About Me
+## 👋 About Me
 
-Shubham Singh  
-iOS Developer 
+**Shubham Singh**  
+iOS Developer
 
-- X - https://x.com/shubham_iosdev
-- Instagram – https://instagram.com/shubham_iosdev
-- LinkedIN - https://www.linkedin.com/in/shubham0812
+- X  
+  https://x.com/shubham_iosdev
+- Instagram  
+  https://instagram.com/shubham_iosdev
+- LinkedIn  
+  https://www.linkedin.com/in/shubham0812
+
+---
+
+> Good animations don’t stand out.  
+> They help users understand what just happe
