@@ -87,7 +87,7 @@ If you find something useful, feel free to star or fork the repository.
 ## About Me
 
 Shubham Singh  
-iOS Developer – SwiftUI and Animations
+iOS Developer 
 
 - X - https://x.com/shubham_iosdev
 - Instagram – https://instagram.com/shubham_iosdev
