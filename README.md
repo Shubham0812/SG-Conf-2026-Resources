@@ -38,8 +38,8 @@ Hands-on learning material to build a strong foundation.
 ## 🧪 Demo Projects
 Each project focuses on a single concept and is meant to be readable, reusable, and production-minded.
 
-- **Reusable Button Styles**  
-  <repo link>
+- **Reusable Components - Animation, Extensions**  
+  [Link](https://github.com/Shubham0812/SG-Conf-2026-Resources/tree/main/Reusable_Components)
 
 - **Animated Toggles & Switches**  
   <repo link>
