@@ -96,4 +96,4 @@ iOS Developer
 ---
 
 > Good animations don’t stand out.  
-> They help users understand what just happe
+> They help users understand what just happened
