@@ -1,11 +1,10 @@
 # Conference Resources – SwiftUI Animations & UI Patterns
 
-A curated collection of videos, demo projects, and real-world references shared during the conference.
+A curated collection of reference videos, demo projects shared during the conference.
 
 Use this repository as a post-talk reference and explore the topics at your own pace.
 
----
-
+------
 ## Videos to Watch
 
 Talks and sessions that focus on the *why*, *when*, and *how* of animations and motion in SwiftUI.
@@ -23,39 +22,11 @@ Talks and sessions that focus on the *why*, *when*, and *how* of animations and 
 - Advanced SwiftUI Animation Techniques – <add link>
 - Performance Considerations for Animations – <add link>
 
----
+------
 
-## Demo Projects by Topic
-
+## Demo Projects
 Each project focuses on a single concept and is meant to be readable, reusable, and production-minded.
 
----
-
-### Foundations
-
-- Implicit vs Explicit Animations  
-  <repo link>
-
-- Animation Curves and Timing  
-  <repo link>
-
-- Value-Driven Animations  
-  <repo link>
-
----
-
-### Interaction and Feedback
-
-- Press and Release Animations  
-  <repo link>
-
-- Gesture-Driven Animations  
-  <repo link>
-
-- Micro-Interactions  
-  <repo link>
-
----
 
 ### Layout and Transitions
 
@@ -68,20 +39,7 @@ Each project focuses on a single concept and is meant to be readable, reusable, 
 - Content Reveal and Disclosure  
   <repo link>
 
----
-
-### Real-World Patterns
-
-- List Insert and Delete Animations  
-  <repo link>
-
-- Loaders and Progress Animations  
-  <repo link>
-
-- Perceived Performance Improvements  
-  <repo link>
-
----
+------
 
 ## Reusable Components
 
@@ -99,24 +57,20 @@ Production-ready components designed for customization and scale.
 - Animation Presets and Systems  
   <repo link>
 
----
-
+------
 ## My App
 
-### <App Name>
+### WordFlux – Word Puzzles
 
-Short description of the app and what makes it unique.
+I recently launched **WordFlux**, a thoughtfully designed word puzzle game focused on quick thinking, pattern recognition, and long-term vocabulary growth.
 
-- App Store – <link>
-- Website – <link>
-- Tech Stack
-  - SwiftUI
-  - Swift Animations
-  - <other frameworks>
+Form words from a limited set of letters before the timer runs out. Each round challenges how you think, adapt, and make efficient choices while gradually sharpening your word skills over time.
 
-This app demonstrates how animation, interaction, and design come together in a real shipping product.
+- App Store – https://apps.apple.com/in/app/wordflux-word-puzzles/id6757514622
 
----
+If this talk or the projects here resonated with you, I’d love for you to check out the app.
+
+------
 
 ## Source Code Usage
 
@@ -135,13 +89,6 @@ If you find something useful, feel free to star or fork the repository.
 Shubham Singh  
 iOS Developer – SwiftUI and Animations
 
-- GitHub – <link>
-- Instagram – <link>
-- Website – <link>
-- Email – <link>
-
-I share SwiftUI experiments, animation breakdowns, and reusable UI patterns.
-
------
-Good animations do not draw attention to themselves.  
-They help users understand what just happened and what comes next.
+- X - https://x.com/shubham_iosdev
+- Instagram – instagram.com/shubham_iosdev
+- LinkedIN - https://www.linkedin.com/in/shubham0812
