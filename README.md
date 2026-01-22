@@ -13,6 +13,10 @@ Shortlisted talks that explain **how SwiftUI animations work** and **how to thin
 
 ### Apple & WWDC
 
+- **Explore SwiftUI animation**  
+  WWDC 2023  
+  https://www.youtube.com/watch?v=IuSuHJs5-KE
+  
 - **Enhance Your UI Animations & Transitions**  
   WWDC 2024  
   https://www.youtube.com/watch?v=UDaNFV1Ll3E
