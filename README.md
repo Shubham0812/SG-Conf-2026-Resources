@@ -53,7 +53,7 @@ Each project focuses on a single concept and is meant to be readable, reusable, 
 
 ### WordFlux – Word Puzzles
 
-I recently launched **WordFlux**, a thoughtfully designed word-puzzle game focused on quick thinking, pattern recognition, and long-term vocabulary growth.
+I recently launched **WordFlux**, a thoughtfully designed word-puzzle game focused on quick thinking, and pattern recognition. 
 
 You form words from a limited set of letters before the timer runs out.  
 Each session is short, focused, and designed to keep you in a state of flow.
