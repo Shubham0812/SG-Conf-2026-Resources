@@ -44,16 +44,12 @@ Each project focuses on a single concept and is meant to be readable, reusable, 
 - **Hero Aniamtion**  
   [Link](https://github.com/Shubham0812/SG-Conf-2026-Resources/tree/main/Hero-animations)
 
-- **Progress Indicators & Loaders**  
-  <repo link>
-
-- **Animation Presets & Systems**  
-  <repo link>
-
+- **Demo App - Tasks / To Do App**  
+  https://github.com/Shubham0812/SG-Conf-2026-Resources/tree/main/Reusable_Components
 
 ---
 
-## 📱 My App
+## 📱 My Latest App
 
 ### WordFlux – Word Puzzles
 
