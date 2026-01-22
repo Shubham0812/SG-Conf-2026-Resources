@@ -7,34 +7,26 @@ Use this repository as a post-talk reference and explore the topics at your own 
 ------
 ## Videos to Watch
 
-Talks and sessions that focus on the *why*, *when*, and *how* of animations and motion in SwiftUI.
-
+Talks and sessions 
 
 ### Apple & WWDC
 
-- [SwiftUI Tutorials by Apple](https://developer.apple.com/tutorials/swiftui)
 - [WWDC24: Enhance Your UI Animations & Transitions](https://www.youtube.com/watch?v=UDaNFV1Ll3E)
 - [WWDC24: SwiftUI Essentials – Animate with SF Symbols](https://www.youtube.com/watch?v=HyQgpxX__-A)
-- [SwiftUI Sample Apps by Apple](https://developer.apple.com/tutorials/sample-apps/)
-
 ------
+
+## Tutorials
+
+- [SwiftUI Tutorials by Apple](https://developer.apple.com/tutorials/swiftui)
+
 
 ## Demo Projects
 Each project focuses on a single concept and is meant to be readable, reusable, and production-minded.
 
 
-### Layout and Transitions
 
-- Matched Geometry Effect  
-  <repo link>
+- [SwiftUI Sample Apps by Apple](https://developer.apple.com/tutorials/sample-apps/)
 
-- Custom View Transitions  
-  <repo link>
-
-- Content Reveal and Disclosure  
-  <repo link>
-
-------
 
 ## Reusable Components
 
@@ -53,6 +45,7 @@ Production-ready components designed for customization and scale.
   <repo link>
 
 ------
+
 ## My App
 
 ### WordFlux – Word Puzzles
