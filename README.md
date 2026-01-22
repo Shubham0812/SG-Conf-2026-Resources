@@ -45,7 +45,7 @@ Each project focuses on a single concept and is meant to be readable, reusable, 
   [Link](https://github.com/Shubham0812/SG-Conf-2026-Resources/tree/main/Hero-animations)
 
 - **Demo App - Tasks / To Do App**  
-  https://github.com/Shubham0812/SG-Conf-2026-Resources/tree/main/Reusable_Components
+  [Link](https://github.com/Shubham0812/SG-Conf-2026-Resources/tree/main/Reusable_Components)
 
 ---
 
