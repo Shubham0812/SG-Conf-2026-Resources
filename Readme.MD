@@ -13,12 +13,14 @@ Talks and sessions
 
 - WWDC24: Enhance Your UI Animations & Transitions - [Link](https://www.youtube.com/watch?v=UDaNFV1Ll3E)
 - WWDC24: SwiftUI Essentials – Animate with SF Symbols - [Link](https://www.youtube.com/watch?v=HyQgpxX__-A)
+
 ------
 
 ## Tutorials
 - [SwiftUI Tutorials by Apple](https://developer.apple.com/tutorials/swiftui)
 
 
+---
 ## Demo Projects
 Each project focuses on a single concept and is meant to be readable, reusable, and production-minded.
 
@@ -43,21 +45,16 @@ Production-ready components designed for customization and scale.
 - Animation Presets and Systems  
   <repo link>
 
-------
 
 ## My App
 
 ### WordFlux – Word Puzzles
 
-I recently launched **WordFlux**, a thoughtfully designed word puzzle game focused on quick thinking, pattern recognition, and long-term vocabulary growth.
-
-Form words from a limited set of letters before the timer runs out. Each round challenges how you think, adapt, and make efficient choices while gradually sharpening your word skills over time.
+I recently launched **WordFlux**, a thoughtfully designed word puzzle game where you form words from a limited set of letters before the timer runs out.
+If this talk or the projects here resonated with you, I’d love for you to check out the app.
 
 - App Store – https://apps.apple.com/in/app/wordflux-word-puzzles/id6757514622
 
-If this talk or the projects here resonated with you, I’d love for you to check out the app.
-
-------
 
 ## Source Code Usage
 
