@@ -30,17 +30,13 @@ Hands-on learning material to build a strong foundation.
 - **SwiftUI Tutorials by Apple**  
   https://developer.apple.com/tutorials/swiftui
 
+- **SwiftUI Sample Apps by Apple**  
+  https://developer.apple.com/tutorials/sample-apps/
+
 ---
 
 ## 🧪 Demo Projects
-
-Each project focuses on **one core concept** and is designed to be:
-- Easy to read
-- Easy to modify
-- Easy to adapt to real apps
-
-- **SwiftUI Sample Apps by Apple**  
-  https://developer.apple.com/tutorials/sample-apps/
+Each project focuses on a single concept and is meant to be readable, reusable, and production-minded.
 
 - **Reusable Button Styles**  
   <repo link>
