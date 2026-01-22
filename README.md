@@ -41,8 +41,8 @@ Each project focuses on a single concept and is meant to be readable, reusable, 
 - **Reusable Components - Animation, Extensions**  
   [Link](https://github.com/Shubham0812/SG-Conf-2026-Resources/tree/main/Reusable_Components)
 
-- **Animated Toggles & Switches**  
-  <repo link>
+- **Hero Aniamtion**  
+  [Link](https://github.com/Shubham0812/SG-Conf-2026-Resources/tree/main/Hero-animations)
 
 - **Progress Indicators & Loaders**  
   <repo link>
